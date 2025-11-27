@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Arch Linux 助手",
+  "description": "Arch Linux 用户的终极 AI 助手。使用 Gemini 生成 Pacman 命令，排除系统日志故障，并查询 Arch Wiki 知识库。",
+  "requestFramePermissions": []
+}
